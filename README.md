@@ -126,7 +126,7 @@ df_z_cleaned
 
 <img width="1039" height="714" alt="Screenshot 2026-02-09 111241" src="https://github.com/user-attachments/assets/c65430ac-4b50-421f-afe6-e6527379377d" />
 
-[DS exp-1(udhaya.s).pdf](https://github.com/user-attachments/files/25174799/DS.exp-1.udhaya.s.pdf)
+
 
 # Result
    Thus,the  the given data is cleaned and saved successfully.
