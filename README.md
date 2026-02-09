@@ -1,4 +1,4 @@
-#EX.NO:1
+<img width="1039" height="714" alt="Screenshot 2026-02-09 111241" src="https://github.com/user-attachments/assets/c65430ac-4b50-421f-afe6-e6527379377d" />#EX.NO:1
 Data Cleaning Process
 
 # AIM
@@ -120,6 +120,11 @@ outliers_z
 df_z_cleaned = df_z[z_scores <= threshold]
 df_z_cleaned
 
+<img width="1189" height="813" alt="Screenshot 2026-02-09 111159" src="https://github.com/user-attachments/assets/6a323445-e576-4fb4-9abd-84e7d2fdd071" />
+
+<img width="1079" height="280" alt="Screenshot 2026-02-09 111222" src="https://github.com/user-attachments/assets/7a440a5d-f7a4-485d-b24a-4892f3415cb4" />
+
+<img width="1189" height="813" alt="Screenshot 2026-02-09 111159" src="https://github.com/user-attachments/assets/f93e0ab5-aefe-47e3-bd8f-93d048c42a03" />
 
 # Result
           <<include your Result here>>
