@@ -121,6 +121,7 @@ outliers_z
 df_z_cleaned = df_z[z_scores <= threshold]
 df_z_cleaned
 ~~~
+#output:
 
 <img width="1189" height="813" alt="Screenshot 2026-02-09 111159" src="https://github.com/user-attachments/assets/6a323445-e576-4fb4-9abd-84e7d2fdd071" />
 
