@@ -21,7 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-~~~ 
+~~~ python
 # import libarary
 import numpy as np
 from scipy import stats
